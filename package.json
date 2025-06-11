@@ -1,8 +1,9 @@
 {
   "name": "node-arg-parser",
-  "version": "0.1.0",
-  "description": "A command line argument parser for nodejs projects",
+  "version": "0.2.0",
+  "description": "A simple, chainable command-line argument parser for Node.js CLI tools. Supports type validation, short & long args, and automatic help display.",
   "main": "index.js",
+  "types": "index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
