@@ -1,0 +1,27 @@
+{
+  "name": "node-arg-parser",
+  "version": "0.1.0",
+  "description": "A command line argument parser for nodejs projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lkjatinc669/node-arg-parser.git"
+  },
+  "keywords": [
+    "arguments",
+    "parser",
+    "command-line",
+    "command",
+    "shell",
+    "cmd"
+  ],
+  "author": "Jatin Gohil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lkjatinc669/node-arg-parser/issues"
+  },
+  "homepage": "https://github.com/lkjatinc669/node-arg-parser#readme"
+}
